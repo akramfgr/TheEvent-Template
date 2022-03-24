@@ -339,11 +339,13 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 #hero h5 {
+  margin: 0;
   color: #fff;
   text-align: center;
 
 }
 #hero h3 {
+  margin: 0;
   color: #fff;
   font-size: 23px;
 }
@@ -380,6 +382,14 @@ span{
     font-size: 18px;
     line-height: 24px;
   }
+  #hero h5 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  #hero h3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
 }
 @media (max-height: 500px) {
   #hero {
@@ -389,7 +399,7 @@ span{
 #akram{
   display: flex;
   margin: auto;
-  width: 60%;
+  width: 100%;
   padding: 10px;
 }
 #hamza{
