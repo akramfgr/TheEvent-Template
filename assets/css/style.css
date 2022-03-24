@@ -383,12 +383,12 @@ span{
     line-height: 24px;
   }
   #hero h5 {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 24px;
   }
   #hero h3 {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 24px;
   }
 }
 @media (max-height: 500px) {
